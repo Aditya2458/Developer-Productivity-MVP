@@ -72,7 +72,7 @@ developer-productivity-mvp/
 
 ```
 git clone https://github.com/YOUR_USERNAME/Developer-Productivity-MVP.git
-cd developer-productivity-mvp
+cd Developer-Productivity-MVP
 ```
 
 ---
