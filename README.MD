@@ -94,7 +94,7 @@ http://127.0.0.1:8000
 
 ### 3️⃣ Run Frontend
 
-Open a new terminal:
+Open a new terminal
 
 ```
 cd frontend
